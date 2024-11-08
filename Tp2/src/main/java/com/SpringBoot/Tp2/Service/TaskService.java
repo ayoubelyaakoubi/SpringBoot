@@ -1,10 +1,11 @@
-package org.springboot.tp2.Service;
+package com.SpringBoot.Tp2.Service;
 
 import java.util.List;
 
-import org.springboot.tp2.DAO.TaskRepository;
-import org.springboot.tp2.Entity.Task;
 import org.springframework.stereotype.Service;
+
+import com.SpringBoot.Tp2.DAO.TaskRepository;
+import com.SpringBoot.Tp2.Entity.Task;
 
 import lombok.RequiredArgsConstructor;
 
