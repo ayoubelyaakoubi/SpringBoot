@@ -1,6 +1,5 @@
 package com.SpringBoot.Tp3.Controller;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import com.SpringBoot.Tp3.DTO.ImageRequest;
